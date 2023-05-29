@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1686939e29b7eb34eab0777853c83cad, type: 3}
+  m_Name: Player_00
+  m_EditorClassIdentifier: 
+  playerName: Ravi Kiran
+  discriptionOfPlayer: The Player is Dangerous
+  playerPrefab: {fileID: 9077833537818669074, guid: dd3b6007d3e606242bc928aa3f5d4759, type: 3}
