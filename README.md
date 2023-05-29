@@ -13,4 +13,4 @@ Future Shock is a 3D Action Shooting Game which was created in Multiplayer - Pho
 10.) Implemented the Match Manager to manage the Game States & Player Data like(NewPlayer, ListOfPlayers, UpdatePlayerStats, NextMatch and SyncTime) using Events.  
 11.) Implemented Sound System using Audio Mixer.  
 
-Unity Play Link : 
+Itch.io Link : https://ravi-kiran-bhatraju.itch.io/future-shock
